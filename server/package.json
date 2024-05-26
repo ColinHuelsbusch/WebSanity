@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "groq": "npx nodemon --env-file=.env groq.js",
+    "mistral": "npx nodemon --env-file=.env mistral.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Hülsbusch, Bixente Elgart, Xuban Ceccon (XuBiCo)",
+  "license": "ISC",
+  "dependencies": {
+    "@mistralai/mistralai": "^0.3.0",
+    "@musaid.qa/openai-socket": "^0.0.3",
+    "groq-sdk": "^0.4.0",
+    "socket.io": "^4.7.5"
+  }
+}
