@@ -1,5 +1,7 @@
 # Web Sanity
 
+<img src="https://github.com/ColinHuelsbusch/WebSanity/blob/main/extension/assets/logo.svg?raw=true" alt="Web Sanity" width="256"/>
+
 The project consists of two main components: the Browser Extension, located in the `extension` folder, and the Backend, located in the `server` folder.
 
 ## Browser Extension
