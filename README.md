@@ -8,6 +8,14 @@ Web Sanity is a browser extension that detects and highlights or blocks harmful 
 
 <a href="https://www.youtube.com/watch?v=dg4Jakp33_g"><img src="https://github.com/ColinHuelsbusch/WebSanity/blob/main/extension/assets/preview.jpeg?raw=true" alt="Preview" height="256"/></a>
 
+## Classification Categories
+Harmful content is classified into these five categories:
+- Explicit Sexual Content
+- Hate Speech / Slurs / Self-Harm
+- Violence / War / Weapons / Terrorism
+- Misinformation / Propaganda
+- Phishing / Scam / Fraud
+
 ## Browser Extension
 
 ### Install Requirements
