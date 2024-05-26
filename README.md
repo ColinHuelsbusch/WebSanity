@@ -4,9 +4,9 @@ Web Sanity is a browser extension that detects and highlights or blocks harmful 
 
 <img src="https://github.com/ColinHuelsbusch/WebSanity/blob/main/extension/assets/logo.svg?raw=true" alt="Web Sanity" height="256"/>
 
-## Preview
+## Preview Video
 
-<img src="https://github.com/ColinHuelsbusch/WebSanity/blob/main/extension/assets/preview.jpeg?raw=true" alt="Preview" height="256"/>
+<a href="https://www.youtube.com/watch?v=dg4Jakp33_g"><img src="https://github.com/ColinHuelsbusch/WebSanity/blob/main/extension/assets/preview.jpeg?raw=true" alt="Preview" height="256"/></a>
 
 ## Browser Extension
 
@@ -73,7 +73,12 @@ npm run mistral
 
 ## Pipeline
 
-<img src="https://github.com/ColinHuelsbusch/WebSanity/blob/main/extension/assets/pipeline.jpeg?raw=true" alt="Preview" height="256"/>
+<img src="https://github.com/ColinHuelsbusch/WebSanity/blob/main/extension/assets/pipeline.jpeg?raw=true" alt="Pipeline" height="256"/>
+
+## Presentation
+
+https://docs.google.com/presentation/d/1CvfzLVwsN8VjTAExXeUaoB1D5ET2Wa_aS7ThGsezXDA/edit?usp=sharing
+
 
 ## The Team
 
