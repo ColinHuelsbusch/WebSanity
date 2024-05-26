@@ -1,8 +1,12 @@
 # Web Sanity
 
-<img src="https://github.com/ColinHuelsbusch/WebSanity/blob/main/extension/assets/logo.svg?raw=true" alt="Web Sanity" width="256"/>
+Web Sanity is a browser extension that detects and highlights or blocks harmful content. It acts as a protective shield, allowing users to surf the web having full controll of the negative aspects of the internet. [More information about the project on DEVPOST](https://devpost.com/software/web-sanity)
 
-The project consists of two main components: the Browser Extension, located in the `extension` folder, and the Backend, located in the `server` folder.
+<img src="https://github.com/ColinHuelsbusch/WebSanity/blob/main/extension/assets/logo.svg?raw=true" alt="Web Sanity" height="256"/>
+
+## Preview
+
+<img src="https://github.com/ColinHuelsbusch/WebSanity/blob/main/extension/assets/preview.jpeg?raw=true" alt="Preview" height="256"/>
 
 ## Browser Extension
 
@@ -66,3 +70,13 @@ npm run groq
 ```sh
 npm run mistral
 ```
+
+## Pipeline
+
+<img src="https://github.com/ColinHuelsbusch/WebSanity/blob/main/extension/assets/pipeline.jpeg?raw=true" alt="Preview" height="256"/>
+
+## The Team
+
+<img src="https://github.com/ColinHuelsbusch/WebSanity/blob/main/extension/assets/team.jpg?raw=true" alt="Team" height="256"/>
+
+[Colin Hülsbusch](https://github.com/ColinHuelsbusch), [Bixente Elgart](https://github.com/Brohoya), [Xuban Ceccon](https://github.com/EHxuban11) 
